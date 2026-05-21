@@ -5,7 +5,7 @@ import img3 from '../assets/m3.jpg'
 import img4 from '../assets/h2.jpg'
 import img5 from '../assets/m5.jpg'
 import img6 from '../assets/menu.png'
-import Logo from '../assets/logo.png'
+import logo from '../assets/logo.png';
 
 const Menu = () => {
   return (
@@ -60,7 +60,7 @@ const Menu = () => {
 
           {/* Center - Logo */}
           <div className="flex justify-center">
-            <img src={Logo} alt="Fidalgo Logo" className="h-12 md:h-16 object-contain" />
+            <img src={logo} alt="Fidalgo Logo" className="h-12 md:h-16 object-contain" />
           </div>
 
           {/* Right - Copyright */}
