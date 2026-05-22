@@ -6,7 +6,7 @@ import img4 from '../assets/glass.png'
 import img5 from '../assets/wine.jpg'
 import img6 from '../assets/menu.png'
 import img7 from '../assets/cocktails.jpg'
-import Logo from '../assets/Logo.png'
+import Logo from '../assets/logo.png'
 
 
 const Home = () => {
